@@ -6,7 +6,7 @@ A portfolio repository for planning, launching and measuring the email campaign 
 
 The original sequence is preserved without edits in:
 
-[`source/TGCL-The-Zero-Blueprint-Marketing-Email-Sequence.pdf`](source/TGCL-The-Zero-Blueprint-Marketing-Email-Sequence.pdf)
+[/TGCL-The-Zero-Blueprint-Marketing-Email-Sequence.pdf`](source/TGCL-The-Zero-Blueprint-Marketing-Email-Sequence.pdf)
 
 The PDF is the authoritative source. None of the strategy documents replace or rewrite its content.
 
@@ -18,11 +18,11 @@ The PDF is the authoritative source. None of the strategy documents replace or r
 |---|---|
 | [Sequence map](/01-sequence-map.md) | Shows the role of each email without changing its copy |
 | [Email marketing strategy](/02-email-marketing-strategy.md) | Defines audience, delivery, conversion and measurement |
-| [Testing plan](docs/03-testing-plan.md) | Prioritizes tests linked to qualified action |
-| [Implementation checklist](docs/04-implementation-checklist.md) | Provides a practical launch and QA process |
-| [Campaign scorecard](templates/campaign-scorecard.csv) | Tracks business impact |
-| [Experiment log](templates/experiment-log.csv) | Records test decisions and learnings |
-| [Audience matrix](templates/audience-matrix.csv) | Connects segments, needs and proof |
+| [Testing plan](/03-testing-plan.md) | Prioritizes tests linked to qualified action |
+| [Implementation checklist](/04-implementation-checklist.md) | Provides a practical launch and QA process |
+| [Campaign scorecard](/campaign-scorecard.csv) | Tracks business impact |
+| [Experiment log](/experiment-log.csv) | Records test decisions and learnings |
+| [Audience matrix](/audience-matrix.csv) | Connects segments, needs and proof |
 
 ## Strategic principle
 
