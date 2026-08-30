@@ -16,8 +16,8 @@ The PDF is the authoritative source. None of the strategy documents replace or r
 
 | Resource | Purpose |
 |---|---|
-| [Sequence map](docs/01-sequence-map.md) | Shows the role of each email without changing its copy |
-| [Email marketing strategy](docs/02-email-marketing-strategy.md) | Defines audience, delivery, conversion and measurement |
+| [Sequence map](/01-sequence-map.md) | Shows the role of each email without changing its copy |
+| [Email marketing strategy](/02-email-marketing-strategy.md) | Defines audience, delivery, conversion and measurement |
 | [Testing plan](docs/03-testing-plan.md) | Prioritizes tests linked to qualified action |
 | [Implementation checklist](docs/04-implementation-checklist.md) | Provides a practical launch and QA process |
 | [Campaign scorecard](templates/campaign-scorecard.csv) | Tracks business impact |
