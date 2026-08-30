@@ -6,7 +6,7 @@ A portfolio repository for planning, launching and measuring the email campaign 
 
 The original sequence is preserved without edits in:
 
-[/TGCL-The-Zero-Blueprint-Marketing-Email-Sequence.pdf`](source/TGCL-The-Zero-Blueprint-Marketing-Email-Sequence.pdf)
+[TGCL-The-Zero-Blueprint-Marketing-Email-Sequence.pdf`](source/TGCL-The-Zero-Blueprint-Marketing-Email-Sequence.pdf)
 
 The PDF is the authoritative source. None of the strategy documents replace or rewrite its content.
 
