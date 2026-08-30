@@ -1,0 +1,3 @@
+experiment_id,hypothesis,segment,variable,control,variation,start_date,end_date,primary_measure,guardrail,sample_size,result,decision,learning
+EXP-001,,,,,,,,,,,,,
+
