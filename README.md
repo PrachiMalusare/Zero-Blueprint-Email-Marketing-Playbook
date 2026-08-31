@@ -10,8 +10,6 @@ The original sequence is preserved without edits in:
 
 The PDF is the authoritative source. None of the strategy documents replace or rewrite its content.
 
-**Source SHA-256:** `a8a0c01a62e738d6e48ca21870b7f5ecb4d7806bcbc1df14114f99df9f10022f`
-
 ## Repository contents
 
 | Resource | Purpose |
