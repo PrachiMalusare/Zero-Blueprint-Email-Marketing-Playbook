@@ -28,14 +28,6 @@ The PDF is the authoritative source. None of the strategy documents replace or r
 
 The sequence should not be judged by opens alone. Its job is to move suitable people from recognition to interest, from interest to a conversation, and from a conversation to enrollment.
 
-## Suggested repository name
-
-`zero-blueprint-email-marketing-playbook`
-
-## Usage note
-
-Before sending, confirm current dates, availability, pricing, bonuses, mentor participation, consent, suppression rules and legal requirements. These operational checks do not change the preserved source copy.
-
 ## License and content rights
 
 The original PDF remains subject to its owner's rights. The added repository framework and templates are provided for portfolio and educational use. No separate reuse license is granted for the source email copy.
